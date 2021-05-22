@@ -5,10 +5,10 @@ http://newlist.netlify.app/
 # TO-DO LIST DRAW  🧾🧾🧾
 
 # Project Picture
-![project](file:///C:/Users/mobilbil2/Desktop/muhammet/list/images/x.png)
-![project-2](file:///C:/Users/mobilbil2/Desktop/muhammet/list/images/y.png)
-![project-2](file:///C:/Users/mobilbil2/Desktop/muhammet/list/images/z.png)
-![project-2](file:///C:/Users/mobilbil2/Desktop/muhammet/list/images/last.png)
+![project](file:///C:/Users/mobilbil2/Desktop/muhammet/list/x.png)
+![project-2](file:///C:/Users/mobilbil2/Desktop/muhammet/list/y.png)
+![project-2](file:///C:/Users/mobilbil2/Desktop/muhammet/list/z.png)
+![project-2](file:///C:/Users/mobilbil2/Desktop/muhammet/list/last.png)
 
 # Usage 
 
