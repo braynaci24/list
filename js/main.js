@@ -13,6 +13,12 @@ $(document).ready(function () {
                 $('.todo-input-container').remove();
                 $('.information-button').show();
             }
+        }else {
+            Swal.fire({
+                icon: 'error',
+                title: 'Oops...',
+                text: 'Lütfen İSİM, SOYAD VE YAŞ GİRİNİZ..',
+              })
         }
     })
     $('.information-button').click(function () {
