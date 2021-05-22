@@ -1,0 +1,29 @@
+header {
+    background-color: red;
+}
+.todo-input-container {
+    width: 400px;
+    height: 40px;
+}
+.input-group-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0px;
+    margin: 0px;
+    height: 60vh;
+}
+.information {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+.card {
+    
+    height: 80px;
+}
+.card-text {
+    color: green;
+}
