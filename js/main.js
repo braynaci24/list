@@ -7,7 +7,6 @@ $(document).ready(function () {
         generalInfo.push(inputVal);
 
         if ($('.info').length < 3 && inputVal.length >= 2) {
-
             $('.append-information-container').append(`<th class="info"> ${inputVal}</th>`);
             $('.todo-input').val("")
             if ($('.info').length == 3) {
