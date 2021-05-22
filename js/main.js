@@ -18,7 +18,7 @@ $(document).ready(function () {
     })
     $('.information-button').click(function () {
         $('.table ').remove();
-        $('.info-card').append(`<div class="alert alert-danger card" role="alert">Bilgileriniz isim, soyisim ve yaş olmak üzere şu şekildedir:  <span class="card-text"> ${generalInfo} </span> </div>`)
+        $('.info-card').append(`<div class="alert alert-light card" role="alert">Bilgileriniz isim, soyisim ve yaş olmak üzere şu şekildedir:  <span class="card-text"> ${generalInfo} </span> </div>`)
         $('.information-button').remove();
         $('.information-button-2').show();
     })
